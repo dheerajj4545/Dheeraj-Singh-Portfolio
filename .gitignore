@@ -14,7 +14,7 @@ dist-ssr
 *.local
 
 # Ignore specific private component
-src/components/contact.jsx
+src/components/Contact.jsx
 
 # Editor directories and files
 .vscode/*
