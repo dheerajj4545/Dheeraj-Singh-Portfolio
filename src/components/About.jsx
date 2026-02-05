@@ -81,12 +81,40 @@ const About = () => {
             className="text-gray-300 max-w-4xl mb-12"
           >
             I’m a{" "}
-            <span className="text-teal-400 font-medium">
-              Full Stack Developer
-            </span>{" "}
-            focused on building scalable, secure, and performance-driven web
-            applications.
-          </motion.p>
+
+        <span className="text-teal-400 font-medium">
+
+          Full Stack Developer
+
+        </span>{" "}
+
+        who builds scalable, production-ready web applications with a strong
+
+        focus on clean architecture, performance, and user experience.
+
+      </motion.p>
+
+
+
+      {/* Extra professional value */}
+
+      <motion.p
+
+        variants={item}
+
+        className="text-gray-400 leading-relaxed max-w-4xl mb-12"
+
+      >
+
+        On the frontend, I craft responsive and interactive UIs using React
+
+        and Tailwind CSS. On the backend, I design secure REST APIs,
+
+        authentication systems, and database schemas using Node.js,
+
+        Express, and MongoDB. 
+
+      </motion.p>
 
           {/* SKILLS */}
           <motion.div
