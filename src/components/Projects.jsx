@@ -6,14 +6,14 @@ const projects = [
     description:
       "Full stack authentication system with JWT, protected routes, password hashing, and role-based access.",
     tech: ["React", "Node.js", "Express", "MongoDB", "JWT"],
-    link: "https:client-ghl44nj3r-dheerajsinghrao6-3374s-projects.vercel.app",
+    link: "client-neon-mu.vercel.app",
   },
   {
     title: "Real-time Chat App",
     description:
       "Socket.io based real-time chat application with typing indicators and online status.",
     tech: ["React", "Node.js", "Socket.io"],
-    link: "#",
+    link: "real-time-chat-app-lyart-seven.vercel.app",
   },
   {
     title: "Portfolio Website",
